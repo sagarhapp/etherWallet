@@ -18,7 +18,7 @@ To set up EtherWallet Mercury, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/etherwallet-mercury.git
+    git clone https://github.com/sagarhapp/etherwallet-mercury.git
     cd etherwallet-mercury
     ```
 
